@@ -1,7 +1,7 @@
 U&A Curlie scraper
 =================================================
 
-This scraper, for the Use and Abuse of Personal Informaion project, is designed to comprehensively and recursively scraper curlie.org
+This scraper, for the Use and Abuse of Personal Information project, is designed to comprehensively and recursively scraper curlie.org
 
 
 Table of contents
@@ -64,7 +64,8 @@ python (or python3) main.py
 Known issues and limitations
 ----------------------------
 
-None at this time
+The dict.txt currently is not fully functional
+(Am fixing it now)
 
 Getting help
 ------------
