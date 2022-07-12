@@ -3,7 +3,7 @@ import collections
 
 def store_external_dictionary(site_text, path, machine_id, sub_id):
     # takes the external urls, and them stores them with the path.
-    list_of_urls = (item[0] for item in get_external_urls(site_text, "curlie"))
+    list_of_urls = get_external_urls(site_text, "curlie")
     dict_pairing = {path: list_of_urls}
     try:
         f2 = open("dict_" + machine_id + "_" + sub_id + ".txt", "a")
@@ -11,9 +11,9 @@ def store_external_dictionary(site_text, path, machine_id, sub_id):
         f2 = open("dict_" + machine_id + "_" + sub_id + ".txt", "w")
         f2.close()
         f2 = open("dict_" + machine_id + "_" + sub_id + ".txt", "a")
-    f2.write(path+" ||  ")
+    f2.write(path+" |||  ")
     for i in list_of_urls:
-        f2.write(str(i) + " | ")
+        f2.write(" || " + str(i[0]) + " | " + str(i[1]))
     f2.write("\n\n")
     f2.close()
     
