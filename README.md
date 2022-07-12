@@ -12,7 +12,6 @@ Table of contents
 * [Usage](#usage)
 * [Known issues and limitations](#known-issues-and-limitations)
 * [Getting help](#getting-help)
-* [Contributing](#contributing)
 * [License](#license)
 * [Authors and history](#authors-and-history)
 * [Acknowledgments](#acknowledgments)
@@ -21,12 +20,8 @@ Table of contents
 Introduction
 ------------
 
-This Github repo consists of some legacy, but hopefully helpful code, as well as the most recent versision.
 The scraper was designed to get the contents of Curlie, a very large directory of websites, and to then provide a readable output of the
 external sites, and the catagories under which they fall.
-
-The [Introduction](#introduction) section &ndash; which you are presently reading &ndash; should provide background for your software project, a brief explanation of what the project is about, and optionally, pointers to resources that can help orient readers.
-
 
 Installation
 ------------
@@ -75,12 +70,6 @@ Getting help
 ------------
 
 Email me at jackbh@vt.edu, or jbharrison@wm.edu
-
-Contributing
-------------
-
-Mention how people can offer contributions, and point them to your guidelines for contributing.
-
 
 License
 -------
