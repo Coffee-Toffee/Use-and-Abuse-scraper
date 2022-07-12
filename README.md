@@ -40,17 +40,21 @@ Installing dependences:
 
 with pip:
 ```bash
-pip install beautifulsoup4
-```
-
-running:
-```bash
-python (or python3) main.py
+pip (or pip3) install beautifulsoup4
 ```
 
 Usage
 -----
 
+Run this command first
+```bash
+ulimit -s 2000000
+```
+
+Then, to run:
+```bash
+python (or python3) main.py
+```
 This section explains the principles behind this README file.  If this repository were for actual _software_, this [Usage](#usage) section would explain more about how to run the software, what kind of output or behavior to expect, and so on.
 
 ### Basic operation
@@ -64,8 +68,6 @@ A suggested approach for using this example README file is as follows:
 5. Update your README file as your software evolves
 
 The first paragraph in the README file (under the title at the very top) should summarize your software in a concise fashion, preferably using no more than one or two sentences.
-
-<p align="center"><img width="80%" src=".graphics/screenshot-top-paragraph.png"></p>
 
 The space under the first paragraph and _before_ the [Table of Contents](#table-of-contents) is a good location for optional [badges](https://github.com/badges/shields), which are small visual tokens commonly used on GitHub repositories to communicate project status, dependencies, versions, DOIs, and other information.  The particular badges and colors you use depend on your project and personal tastes.
 
