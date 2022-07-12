@@ -1,0 +1,748 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML lang="en">
+  <head>
+    <meta name="description"          content="Collector of URLs">
+    <meta name="keywords"             content="search, collect, stash, directory, community">
+    <meta name="viewport"             content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type"   content="text/html; charset=UTF-8">
+    <meta property="og:url"           content="" />
+    <meta property="og:type"          content="website" />
+    <meta property="og:title"         content="Curlie - Society: Government&shy;: Multilater&shy;al: Regional: European Union: Issues" />
+    <meta property="og:description"   content="Collector of URLs" />
+    <meta property="og:image"         content="/img/curlie-logo.png" />
+
+    <meta http-equiv="cache-control"  content="no-cache">
+    <meta http-equiv="pragma"         content="no-cache">
+    <meta http-equiv="expires"        content="0">
+
+
+
+    <title>Curlie - Society: Government&shy;: Multilater&shy;al: Regional: European Union: Issues</title>
+
+    <link rel="icon"          type="image/x-icon"  href="/img/curlie-ico.gif"     />
+    <link rel="shortcut icon" type="image/x-icon"  href="/img/curlie-ico.gif"     />
+
+    <link rel="stylesheet"    type="text/css"      href="/css/font-awesome-5.13.0/css/all.min.css" />
+    <link rel="stylesheet"    type="text/css"      href="/css/font-awesome-5.13.0/css/v4-shims.min.css" />
+    <link rel="stylesheet"    type="text/css"      href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet"    type="text/css"      href="/css/curlie-common.css"  />
+    <link rel="stylesheet"    type="text/css"      href="/css/curlie-cats.css"    />
+    <link rel="stylesheet"    type="text/css"      href="/css/curlie-menus.css"   />
+    <link rel="stylesheet"    type="text/css"      href="/css/curlie-sites.css"   />
+    <link rel="stylesheet"    type="text/css"      href="/css/curlie-icons.css"   />
+    <link rel="stylesheet"    type="text/css"      href="/css/mypage.css" />
+
+    <link rel="stylesheet"    type="text/css"      href="/css/curlie-cat-society.css"   />
+
+    <script type="text/javascript" src="/js/jquery-1.12.4.min.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-1.12.4.min.js"></script>
+    <script type="text/javascript" src="/js/curlie-common.js"></script>
+    <script type="text/javascript" src="/js/curlie-social.js"></script>
+    <script type="text/javascript" src="/js/curlie-menus.js"></script>
+
+    <script src="/editors/scripts/jquery.cookie.js" type="text/javascript"></script>
+    <script src="/editors/scripts/curlie.js"        type="text/javascript"></script>
+
+    <link rel="stylesheet" type="text/css" href="/editors/css/forms.css">
+
+    <script type="text/javascript">
+      function replace_submit(eleId, value) {
+        $('#' + eleId).val(value);
+      }
+    </script>
+
+
+
+  </head>
+
+<body dir="LTR">
+
+<div id="page">
+
+  <!---------- HEADER ---------->
+
+  <header>
+
+    <a id="main-menu-link" class="menu"> <i id="main-menu-icon" class="fas fa-bars"></i> </a>
+
+    <div id="header-logo" class="logo-container">
+      <a class="logo" title="Curlie" href="/en"><span>Curlie</span></a>
+    </div>
+
+    <a id="user-menu-link" class="menu"> 
+      <i id="user-menu-icon" class="fas fa-user"></i> 
+      <div id="user-menu-top" class="user-menu">
+        <span id="user-menu-name" class="user-menu">
+          <i id="accountIcon" class="fas fa-user"></i> My Account
+        </span>
+      </div>
+    </a>
+
+    <!---------- MAIN MENU ---------->
+
+    <nav id="nav-main-menu" class="main-menu">
+      <ul id="main-menu-list" class="menu-list">
+        <li> <a href="/docs/en/about.html">
+              <i class="documentIcon fas fa-book"></i>
+              About </a> </li>
+
+        <li> <a target="_blank" href="https://curlie.org/forum/">
+              <i class="forumIcon fas fa-comments"></i>
+              Forum </a> </li>
+
+        <li> <a href="https://www.patreon.com/curlie" class="nav-donate">
+              <i class="donateIcon fas fa-coins"></i>
+              Donate  </a> </li>
+      </ul>
+    </nav>
+
+    <!---------- USER MENU ---------->
+
+    <nav id="nav-user-menu" class="user-menu">
+      <ul id="user-menu-list" class="menu-list">
+
+
+
+
+        <li> <a href="/docs/en/help/become.html">
+              <i class="becomeEditorIcon fas fa-user-plus"></i>
+              Become an Editor </a> </li>
+
+
+
+        <li class="register-link">
+            <a href="/public/applypublic">
+              <i class="registerIcon fas fa-signature"></i>
+              Create an Account </a> </li>
+
+
+
+
+
+
+
+        <li> <a href="/editors/auth/login?redirect=/en%2fSociety%2fGovernment%2fMultilateral%2fRegional%2fEuropean_Union%2fIssues/">
+              <i class="loginIcon fas fa-sign-in-alt"></i>
+              Login </a> </li>
+
+
+      </ul>
+    </nav>
+  </header>
+
+<div id="post-header" class="content post-header">
+
+
+
+<!-- this file opens... html body div (#page) div (#post-header) -->
+
+
+
+
+
+
+
+  <script>
+    var favCatText     = "Add this category to my page";
+    var unfavCatText   = "Remove this category from my page";
+    var favSiteText    = "Add this site to my page";
+    var unfavSiteText  = "Remove this site from my page";
+    var setHomeText    = "Make this my hometown category";
+  </script>
+
+  <script type="text/javascript" src="/js/myfavorites.js"> </script>
+
+  <!---------- SEARCH ---------->
+
+  <div id="main-content" class="content ">
+
+    <section id="node-search-viewer" class="search-and-social">
+
+      <div class="search-wrapper">
+
+          <form id="search-form" action="/search" method="GET">
+
+            <span id="more-search-options">
+              <i id="advanced-search-icon" class='fa fa-plus'></i>
+            </span>
+
+            <div class="basic-search">
+              <input class="text-box" type="search" name="q" value="" autofocus placeholder=" Search Curlie in English"/>
+              <i class="search-submit-button fa fa-search"></i>
+              <input type="hidden" name="lang" value="en">
+              
+              <input type="hidden" name="stime" value="92452189">
+              <input type="hidden" name="t" value="society" >
+            </div>
+
+            <div class="social ns">
+              <span id="share-facebook" class="fa fa-2x fa-facebook-square"    onClick="share('facebook', 'nodeviewer', '' )"></span>
+              <span id="share-twitter"  class="fa fa-2x fa-twitter-square"     onClick="share('twitter',  'nodeviewer', '#StayCollected' )"></span>
+              <span id="share-linkedin" class="fa fa-2x fa-linkedin-square"    onClick="share('linkedin', 'nodeviewer', '' )"></span>
+              <span id="share-mail"     class="fa fa-2x fa-envelope-square"    onClick="share('mail',     'nodeviewer', '' )"></span>
+              <span id="share-google"   class="fa fa-2x fa-google-plus-square" onClick="share('google',   'nodeviewer', '' )"></span>
+            </div>
+
+            <div class="advanced-search-option" id="advanced-node-div">
+              <select name="cat" id="advanced-node-select" class="node-select">
+
+
+                  <option value="all" id="all-yes"><label for="all-yes">the entire directory</label></option>
+
+                  <option value="" selected id="all-en"><label for "all-en">English</label></option>
+
+                  <option value="Society"  id="all-no"><label for="all-no"> &nbsp;  Society</label></option>
+
+                  <option value="Society/Government"  id="all-no"><label for="all-no"> &nbsp;  &nbsp;  Government</label></option>
+
+                  <option value="Society/Government/Multilateral"  id="all-no"><label for="all-no"> &nbsp;  &nbsp;  &nbsp;  Multilateral</label></option>
+
+                  <option value="Society/Government/Multilateral/Regional"  id="all-no"><label for="all-no"> &nbsp;  &nbsp;  &nbsp;  &nbsp;  Regional</label></option>
+
+                  <option value="Society/Government/Multilateral/Regional/European_Union"  id="all-no"><label for="all-no"> &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  European Union</label></option>
+
+                  <option value="Society/Government/Multilateral/Regional/European_Union/Issues"  id="all-no"><label for="all-no"> &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  Issues</label></option>
+
+              </select>
+            </div>
+
+            <div class="advanced-search-option search-help">
+              <a id="advanced-search-link" href="/docs/en/searchguide.html">Help with Search</a>
+            </div>
+          </form>
+      </div>
+
+   </section>
+
+
+       
+<div id="doc">
+
+    <section class="results desc-and-faq">
+
+          <!---------- DESCRIPTION and FAQ ---------->
+
+            <div class="desc-and-faq">
+
+
+                    <div id="cat-desc-link" class="desc-link"><a title="Category Description" href="#"><i class="fa fa-info-circle"></i></a></div>
+
+            </div>
+
+          <!---------- CURRENT CATEGORY ---------->
+
+            <div class="current-cat society">
+<i class='cat-path fa fa-chevron-right'></i><a class='breadcrumb' href='/en/Society/'> Society</a><i class='cat-path fa fa-chevron-right'></i><a class='breadcrumb' href='/en/Society/Government/'> Government</a><i class='cat-path fa fa-chevron-right'></i><a class='breadcrumb' href='/en/Society/Government/Multilateral/'> Multilateral</a><i class='cat-path fa fa-chevron-right'></i><a class='breadcrumb' href='/en/Society/Government/Multilateral/Regional/'> Regional</a><i class='cat-path fa fa-chevron-right'></i><a class='breadcrumb' href='/en/Society/Government/Multilateral/Regional/European_Union/'> European Union</a>
+                  <i class='cat-path fa fa-chevron-right'></i>Issues <div class="node-count">5</div>
+
+                <span class="volunteer"><a title='Volunteer to edit this category' href="/public/apply?t=society&cat=Society/Government/Multilateral/Regional/European_Union/Issues"><i class="volunteer volunteer-this fa fa-user-plus"></i></a></span>
+
+                <span class="suggest-url"><a title='Suggest a site for this category' href="/public/suggest?t=society&cat=Society/Government/Multilateral/Regional/European_Union/Issues"><i class="suggest-url fa fa-clipboard"></i></a></span>
+
+            </div>   <!-- end of div current-cat -->
+
+          <!---------- DESCRIPTION and FAQ ---------->
+
+            <div id="description-block" class="themed-background">
+              <div id="description-close"> <i class='fa fa-times-circle'></i> </div>
+              <div id="description-text"> Issues relating to the European Union (rather than Europe in general) such as the single currency, accountability of the EU, withdrawal or entry into the EU, etc.   <br>
+              <a href="/desc/Society/Government/Multilateral/Regional/European_Union/Issues">More information</a></div>
+            </div>
+
+          <!---------- MAP ---------->
+
+
+
+    </section>
+
+
+          <!---------- ALPHABAR ---------->
+
+
+
+          <!---------- CHILD CATEGORIES ---------->
+
+                                <section class="results categories" id="subcategories-section">
+                            <h3 id='cat-list-header-main' class="cat-list-header node-header">
+                              <i class='arrow fa fa-caret-down'></i>
+                              <span class="header-text">Subcategories</span>
+                              <span class="header-count node-count">4</span>
+                              <i class='section-closed fa fa-folder-o'></i>
+                              <i class='section-open fa fa-folder-open-o'></i>
+                            </h3>
+                      <div id="subcategories-div" class="section-wrapper">
+
+                        <section class="children" id="cat-list-section-main">
+
+                        <div id='cat-list-content-main' class="cat-list results leaf-nodes">
+
+                              <div class="cat-item">
+                                  <a href="/en/Society/Government/Multilateral/Regional/European_Union/Policies_and_Programs/Monetary_Union_-_Euro">
+                                    <div class="browse-node">
+                                      <i class='catIcon fa fa-folder-o'></i>
+                                      European Monetary Union - Euro
+                                      <div class="node-count">
+                                        9
+                                      </div>
+                                    </div>
+                                  </a>
+                              </div>
+
+                              <div class="cat-item">
+                                  <a href="/en/Society/Government/Multilateral/Regional/European_Union/Issues/Euroscepticism">
+                                    <div class="browse-node">
+                                      <i class='catIcon fa fa-folder-o'></i>
+                                      Euroscepti&shy;cism
+                                      <div class="node-count">
+                                        2
+                                      </div>
+                                    </div>
+                                  </a>
+                              </div>
+
+                              <div class="cat-item">
+                                  <a href="/en/Society/Government/Multilateral/Regional/European_Union/Law/Treaties/Reform">
+                                    <div class="browse-node">
+                                      <i class='catIcon fa fa-folder-o'></i>
+                                      The Convention on the Future of Europe
+                                      <div class="node-count">
+                                        5
+                                      </div>
+                                    </div>
+                                  </a>
+                              </div>
+
+                              <div class="cat-item">
+                                  <a href="/en/Regional/Europe/United_Kingdom/Society_and_Culture/Issues/European_Union">
+                                    <div class="browse-node">
+                                      <i class='catIcon fa fa-folder-o'></i>
+                                      United Kingdom
+                                      <div class="node-count">
+                                        54
+                                      </div>
+                                    </div>
+                                  </a>
+                              </div>
+                  </div>
+                </section>
+          </section>
+
+          <!---------- RELATED CATEGORIES ---------->
+
+              <section class="results see-also">
+                <h3 id="see-also-header" class="node-header">
+                  <i class='arrow fa fa-caret-down'></i>
+                  <span class="header-text">Related categories</span>
+                  <span class="header-count node-count">1</span>
+                  <i class='section-closed fa fa-folder'></i>
+                  <i class='section-open   fa fa-folder-open'></i>
+                </h3>
+                <div id="related-section" class="section-wrapper">
+                  <div id="see-also-content" class="table see-also cat-content results">
+                
+                      <div class="see-also-row">
+                        <a class="row see-also" href="/en/Regional/Europe/Society_and_Culture/Issues/">
+                            <div class="cell one-folder-icon"> <i class='catIcon fa fa-folder'></i> </div>
+                            <div class="cell one-browse-node"> Regional<i class='fa fa-chevron-right'></i> Europe<i class='fa fa-chevron-right'></i> Society and Culture<i class='fa fa-chevron-right'></i> Issues </div>
+                            <div class="cell one-node-count node-count">0</div>
+                        </a>
+                      </div>
+
+                  </div>
+                </div>
+    </section>
+
+
+
+    <!---------- SITES ---------->
+
+    <section class="results sites">
+
+                <h3 id="site-list-header" class="node-header site-header">
+                     <i class='arrow fa fa-caret-down'></i>
+                     <span class="header-text">Sites</span>
+                     <span class="header-count node-count">3</span>
+                     <i class='section-closed fa fa-file-o'></i>
+                     <i class='section-open   fa fa-file-text-o'></i>
+                     <span id="sort-sites-by-alpha-button" class="change-site-sort site-sort-by-date">Sorted by Review Date</span>
+                     <span id="sort-sites-by-date-button" class="change-site-sort site-sort-by-alpha">Sorted Alphabetically</span>
+                </h3>
+
+                <div id="sites-section" class="section-wrapper">
+                      <div id="site-list-content" class="results browse-content">
+            
+                        <div class=site-sort-by-alpha >
+            
+                            <div class="site-item node-view">
+                                <div class="site-icon"><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=society&cat=Society%2FGovernment%2FMultilateral%2FRegional%2FEuropean_Union%2FIssues&url=http%3A%2F%2Fbeucitizen.eu%2F" 
+                                      title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <div class="site-title">
+                                    <a target="_blank" href="http://beucitizen.eu/">Barriers to European Citizenship</a> 
+            
+                                    <span class="fav-site hidden" node="6382055">
+                                      <a><i class="fav-site fa fa-heart-o" node="6382055"></i></a>
+                                    </span>
+                                  </div>
+                                  <div class="site-descr">
+            
+                                    Project dealing with Europen Union citizens' rights, with information historical development and research on migration, work, travel and residence restrictions. Profile of team, meetings, publications, blog, link to video, and contacts in Utrecht, The Netherlands.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+		
+                            <div class="site-item node-view">
+                                <div class="site-icon"><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=society&cat=Society%2FGovernment%2FMultilateral%2FRegional%2FEuropean_Union%2FIssues&url=http%3A%2F%2Fwww.debatingeurope.eu%2F" 
+                                      title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <div class="site-title">
+                                    <a target="_blank" href="http://www.debatingeurope.eu/">Debating Europe</a> 
+            
+                                    <span class="fav-site hidden" node="6379859">
+                                      <a><i class="fav-site fa fa-heart-o" node="6379859"></i></a>
+                                    </span>
+                                  </div>
+                                  <div class="site-descr">
+            
+                                    Platform for the public to debate with European politicians and experts.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+		
+                            <div class="site-item node-view">
+                                <div class="site-icon"><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=society&cat=Society%2FGovernment%2FMultilateral%2FRegional%2FEuropean_Union%2FIssues&url=http%3A%2F%2Fwww.european-democracy.org%2F" 
+                                      title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <div class="site-title">
+                                    <a target="_blank" href="http://www.european-democracy.org/">Reflections on European democracy</a> 
+            
+                                    <span class="fav-site hidden" node="5029714">
+                                      <a><i class="fav-site fa fa-heart-o" node="5029714"></i></a>
+                                    </span>
+                                  </div>
+                                  <div class="site-descr">
+            
+                                    Essays on European politics, the future and evolution of the European institutions, and the concept of a European identity.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+		
+                        </div>  <!-- close single block of sorted site listings -->
+                
+                        <div class=site-sort-by-date >
+            
+                            <div class="site-item node-view">
+                                <div class="site-icon"><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=society&cat=Society%2FGovernment%2FMultilateral%2FRegional%2FEuropean_Union%2FIssues&url=http%3A%2F%2Fbeucitizen.eu%2F" 
+                                      title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <div class="site-title">
+                                    <a target="_blank" href="http://beucitizen.eu/">Barriers to European Citizenship</a> 
+            
+                                    <span class="fav-site hidden" node="6382055">
+                                      <a><i class="fav-site fa fa-heart-o" node="6382055"></i></a>
+                                    </span>
+                                  </div>
+                                  <div class="site-descr">
+            
+                                    Project dealing with Europen Union citizens' rights, with information historical development and research on migration, work, travel and residence restrictions. Profile of team, meetings, publications, blog, link to video, and contacts in Utrecht, The Netherlands.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+		
+                            <div class="site-item node-view">
+                                <div class="site-icon"><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=society&cat=Society%2FGovernment%2FMultilateral%2FRegional%2FEuropean_Union%2FIssues&url=http%3A%2F%2Fwww.debatingeurope.eu%2F" 
+                                      title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <div class="site-title">
+                                    <a target="_blank" href="http://www.debatingeurope.eu/">Debating Europe</a> 
+            
+                                    <span class="fav-site hidden" node="6379859">
+                                      <a><i class="fav-site fa fa-heart-o" node="6379859"></i></a>
+                                    </span>
+                                  </div>
+                                  <div class="site-descr">
+            
+                                    Platform for the public to debate with European politicians and experts.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+		
+                            <div class="site-item node-view">
+                                <div class="site-icon"><i class='siteIcon fa fa-file-text-o'></i></div>
+                                <div class="site-flag">
+                                  <a href="/public/flag?t=society&cat=Society%2FGovernment%2FMultilateral%2FRegional%2FEuropean_Union%2FIssues&url=http%3A%2F%2Fwww.european-democracy.org%2F" 
+                                      title="Report an issue with this listing"><i class='fa fa-flag'></i></a>
+                                </div>
+
+                                <div class="title-and-desc">
+                                  <div class="site-title">
+                                    <a target="_blank" href="http://www.european-democracy.org/">Reflections on European democracy</a> 
+            
+                                    <span class="fav-site hidden" node="5029714">
+                                      <a><i class="fav-site fa fa-heart-o" node="5029714"></i></a>
+                                    </span>
+                                  </div>
+                                  <div class="site-descr">
+            
+                                    Essays on European politics, the future and evolution of the European institutions, and the concept of a European identity.
+                                    <span class="content-type media-date"></span>
+                                  </div>
+                                </div>
+                            </div>
+		
+                        </div>  <!-- close single block of sorted site listings -->
+                
+                      </div>
+        
+            </div>
+    </section>
+
+    <!---------- ALTERNATE LANGUAGES ---------->
+
+    <section class="results alt-language">
+        <h3 id="alt-language-header-8" class="alt-lang-header node-header">
+          <i class='arrow fa fa-caret-down'></i>
+          <span class="header-text">Other languages</span>
+          <span class="header-count node-count">1</span>
+          <i class='section-closed fa fa-comment'></i>
+          <i class='section-open   fa fa-comment'></i>
+        </h3>
+        <div id="altlang-section" class="section-wrapper">
+            <div id="alt-language-content-8" class="cat-list results alt-language-content leaf-nodes">
+
+                <div class="cat-item">
+                  <a href="/fr/Soci%C3%A9t%C3%A9/Institutions_et_administrations/Multilat%C3%A9rales/R%C3%A9gionales/Union_europ%C3%A9enne/Probl%C3%A8mes_et_d%C3%A9bats">
+                      <div class="browse-node">
+                        <i class='catIcon fa fa-comment'></i>
+                        Français
+                        <div class="node-count">25</div>
+                      </div>
+                  </a>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+    <section class="results editors-and-mozzie">
+
+     <!---------- CUSTOM CURLIE CATEGORY IMAGE ---------->
+
+     <div class="custom-mozzie">
+       <img src='/img/curlie-top.gif' alt=''>
+     </div>
+
+
+     <div class="edit-block">
+
+       <!---------- SHOW EDITORS and LAST UPDATE DATE ---------->
+
+        <div class="cat-editors">
+       	  
+        </div>
+
+        <!---------- LAST UPDATE DATE ---------->
+
+        <div class="last-update">
+
+          <div id="last-update-header" class="last-update-section"> Last update: </div>
+
+            <span class="last-update"><i class="fa fa-calendar"></i>January 20, 2017 at 20:44:08 UTC</span>
+
+          <span class="report-abuse"><a title='Report spam or abuse of this category' href="/public/abuse?t=society&cat=Society/Government/Multilateral/Regional/European_Union/Issues&lang=en"><i class="report-abuse fa fa-user-secret"></i></a></span>
+
+        </div>
+     </div>
+  </section>  <!-- group editors and last update date with mozzie -->
+
+
+    <!---------- CATEGORIES ---------->
+
+
+
+    <section class="thundercats">
+      <div id="cat-slideshow" class="thundercats slideshow slidecount-15" >
+
+             <div class="category society"
+                onClick="window.location.href='/Society'"><div class="cat-label">Society</div></div>
+
+             <div class="category sports"
+                onClick="window.location.href='/Sports'"><div class="cat-label">Sports</div></div>
+
+             <div class="category world"
+                onClick="window.location.href='/World'"><div class="cat-label">All Languages</div></div>
+
+             <div class="category arts"
+                onClick="window.location.href='/Arts'"><div class="cat-label">Arts</div></div>
+
+             <div class="category business"
+                onClick="window.location.href='/Business'"><div class="cat-label">Business</div></div>
+
+             <div class="category computers"
+                onClick="window.location.href='/Computers'"><div class="cat-label">Computers</div></div>
+
+             <div class="category games"
+                onClick="window.location.href='/Games'"><div class="cat-label">Games</div></div>
+
+             <div class="category health"
+                onClick="window.location.href='/Health'"><div class="cat-label">Health</div></div>
+
+             <div class="category home"
+                onClick="window.location.href='/Home'"><div class="cat-label">Home</div></div>
+
+             <div class="category news"
+                onClick="window.location.href='/News'"><div class="cat-label">News</div></div>
+
+             <div class="category recreation"
+                onClick="window.location.href='/Recreation'"><div class="cat-label">Recreation</div></div>
+
+             <div class="category reference"
+                onClick="window.location.href='/Reference'"><div class="cat-label">Reference</div></div>
+
+             <div class="category regional"
+                onClick="window.location.href='/Regional'"><div class="cat-label">Regional</div></div>
+
+             <div class="category science"
+                onClick="window.location.href='/Science'"><div class="cat-label">Science</div></div>
+
+             <div class="category shopping"
+                onClick="window.location.href='/Shopping'"><div class="cat-label">Shopping</div></div>
+
+      </div>
+    </section>      
+
+
+    <!---------- ALT SEARCH ---------->
+
+    <section class="results alt-search">
+
+     <div class="alt-search">
+
+        <div class="search-on">
+           "<b>Society ... Issues</b>" search&nbsp;on:
+        </div>
+
+        <div class="alt-sites">
+	
+           <a href="https://search.aol.com/aol/search?query=Society+Government+Multilateral+Regional+European+Union+Issues">AOL</a> -
+<a href="https://www.ask.com/web?q=Society+Government+Multilateral+Regional+European+Union+Issues">Ask</a> -
+<a href="https://www.bing.com/search?q=Society+Government+Multilateral+Regional+European+Union+Issues">Bing</a> -
+<a href="https://duckduckgo.com/?q=Society+Government+Multilateral+Regional+European+Union+Issues">DuckDuckGo</a> -
+<a href="https://ecosia.org/search?q=Society+Government+Multilateral+Regional+European+Union+Issues">Ecosia</a> -
+<a href="https://gigablast.com/search?q=Society+Government+Multilateral+Regional+European+Union+Issues">Gigablast</a> -
+<a href="https://www.google.com/search?q=Society+Government+Multilateral+Regional+European+Union+Issues">Google</a> -
+<a href="https://www.startpage.com/do/search?q=Society+Government+Multilateral+Regional+European+Union+Issues">StartPage</a> -
+<a href="https://search.yahoo.com/search?p=Society+Government+Multilateral+Regional+European+Union+Issues">Yahoo</a> -
+<a href="https://www.yandex.com/yandsearch?text=Society+Government+Multilateral+Regional+European+Union+Issues">Yandex</a> 				
+        
+      </div>
+    </section>
+
+
+
+
+
+    <!---------- FOOTER ---------->
+
+
+    <footer class="from-footer">
+      <div class="left-side">
+        <div class="copyright">
+            Copyright &copy; 2022 Curlie.org
+        </div>
+      </div>
+
+      <div class="middle">
+        <div class="slogan"> #HumansDoItBetter </div>
+      </div>
+
+      <div class="right-side">
+
+        <div class="about">
+            <a href="/docs/en/about.html">
+              About</a> |
+        </div>
+
+        <div class="terms">
+            <a class="terms-of-use" href="/docs/en/termsofuse.html">Terms of Use</a> |
+        </div>
+
+        <div class="privacy-policy">
+            <a class="privacy" href="/docs/en/privacypolicy.html">Privacy Policy</a>
+        </div>
+      </div>
+    </footer>
+
+
+  </div>  <!-- close div id=post-header -->
+  </div>  <!-- close div id=page -->
+</body>
+</html>
+
+
+<!-- this file closes... html body div (#page) div (#post-header) -->
+
