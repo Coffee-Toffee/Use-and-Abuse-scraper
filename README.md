@@ -1,7 +1,7 @@
 U&A Curlie scraper
 =================================================
 
-This scraper, for the Use and Abuse of Personal Information project, is designed to comprehensively and recursively scraper curlie.org
+This scraper, for the Use and Abuse of Personal Information project, is designed to comprehensively and recursively scrape curlie.org
 
 
 Table of contents
