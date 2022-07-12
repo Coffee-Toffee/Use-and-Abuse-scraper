@@ -64,8 +64,7 @@ python (or python3) main.py
 Known issues and limitations
 ----------------------------
 
-The dict.txt currently is not fully functional
-(Am fixing it now)
+None known at the moment
 
 Getting help
 ------------
@@ -80,7 +79,7 @@ GNU General Public License v3.0
 Authors and history
 ---------------------------
 
-I wrote all of it, except for in the backup_parser, the get_path function, which was written by Joe Harrison.
+I wrote all of it, except for in the backup_parser, the get_path function was written by Joe Harrison.
 
 Any contributions are welcome, however.
 
