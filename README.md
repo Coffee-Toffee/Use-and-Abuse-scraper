@@ -46,7 +46,7 @@ pip (or pip3) install beautifulsoup4
 Usage
 -----
 
-Run this command first
+Run this command first, setting the stack size.
 ```bash
 ulimit -s 2000000
 ```
@@ -55,38 +55,26 @@ Then, to run:
 ```bash
 python (or python3) main.py
 ```
-This section explains the principles behind this README file.  If this repository were for actual _software_, this [Usage](#usage) section would explain more about how to run the software, what kind of output or behavior to expect, and so on.
+(You care about the dict_a_b.txt files, in the output)
 
 ### Basic operation
+(If you have multiple machines, then for each machine)
 
-A suggested approach for using this example README file is as follows:
-
-1. Copy the [source file](README.md) for this file to your repository and commit it to your version control system
-2. Delete all the body text but keep the section headings
-3. Write your README content
-4. Commit the new text to your version control system
-5. Update your README file as your software evolves
-
-The first paragraph in the README file (under the title at the very top) should summarize your software in a concise fashion, preferably using no more than one or two sentences.
-
-The space under the first paragraph and _before_ the [Table of Contents](#table-of-contents) is a good location for optional [badges](https://github.com/badges/shields), which are small visual tokens commonly used on GitHub repositories to communicate project status, dependencies, versions, DOIs, and other information.  The particular badges and colors you use depend on your project and personal tastes.
-
-The [Introduction](#introduction) and [Usage](#usage) sections are described above.
-
-In the [Known issues and limitations](#known-issues) section, summarize any notable issues and/or limitations of your software.  The [Getting help](#getting-help) section should inform readers of how they can contact you, or at least, how they can report problems they may encounter.  The [Contributing](#contributing) section is optional; if your repository is for a project that accepts open-source contributions, then this section is where you can explain to readers how they can go about making contributions.
-
-The [License](#license) section should state any copyright asserted on the project materials as well as the terms of use of the software, files and other materials found in the project repository.  Finally, the [Authors and history](#authors-and-history) section should inform readers who the authors are; it is also a place where you can acknowledge other contributions to the work and the use of other people's software or tools.
+1. Clone/Download the repository
+2. Download dependancies
+3. Set the stack size 
+4. Make sure that the catagory and subcatagory id numbers are correct
+5. Run it.
 
 Known issues and limitations
 ----------------------------
 
-In this section, summarize any notable issues and/or limitations of your software.  If none are known yet, this section can be omitted (and don't forget to remove the corresponding entry in the [Table of Contents](#table-of-contents) too); alternatively, you can leave this section in and write something along the lines of "none are known at this time".
-
+None at this time
 
 Getting help
 ------------
 
-Email me at jackbh@vt.edu
+Email me at jackbh@vt.edu, or jbharrison@wm.edu
 
 Contributing
 ------------
@@ -102,7 +90,9 @@ GNU General Public License v3.0
 Authors and history
 ---------------------------
 
-I have written all of the project thus far. Any contributions are welcome, however.
+I wrote all of it, except for in the backup_parser, the get_path function, which was written by Joe Harrison.
+
+Any contributions are welcome, however.
 
 Acknowledgments
 ---------------
