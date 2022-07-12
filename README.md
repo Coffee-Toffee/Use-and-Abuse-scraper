@@ -3,8 +3,6 @@ U&A Curlie scraper
 
 This scraper, for the Use and Abuse of Personal Informaion project, is designed to comprehensively and recursively scraper curlie.org
 
-[![License](https://img.shields.io/badge/License-CC0-lightgray.svg?style=flat-square)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 
 Table of contents
 -----------------
@@ -23,24 +21,32 @@ Table of contents
 Introduction
 ------------
 
-This single-file repository consists of a README file in Markdown format, and is meant to provide a template for README files as well an illustration of what the README file can be expected to look like.  The structure of this file is based on examining many examples and recommendations for README files, as well as this author's own experiences of creating many open-source projects and repositories over three decades.
+This Github repo consists of some legacy, but hopefully helpful code, as well as the most recent versision.
+The scraper was designed to get the contents of Curlie, a very large directory of websites, and to then provide a readable output of the 
+external sites, and the catagories under which they fall.
 
-The [Introduction](#introduction) section &ndash; which you are presently reading &ndash; should provide background for your software project, a brief explanation of what the project is about, and optionally, pointers to resources that can help orient readers.  (Some README recommendations go straight to installation instructions as the first section, but in my opinion, introductions are important for readers who are not familiar with your technical area.)  Ideally, this section should be short.
+The [Introduction](#introduction) section &ndash; which you are presently reading &ndash; should provide background for your software project, a brief explanation of what the project is about, and optionally, pointers to resources that can help orient readers.
 
 
 Installation
 ------------
 
-Begin this section by mentioning any prerequisites that may be important for users to have before they can use your software.  Examples include hardware and operating system requirements.
+Required Operating System:
+Linux
+(Both Manjaro and Ubuntu are confirmed to work).
+Windows is not supported.
 
-Next, provide step-by-step instructions for installing the software, preferably with command examples that can be copy-pasted by readers into their software environments. For example:
+Installing dependences:
 
+with pip:
 ```bash
-a command-line command here
+pip install beautifulsoup4
 ```
 
-Sometimes, subsections may be needed for different operating systems or particularly complicated installations.
- 
+running:
+```bash
+python (or python3) main.py
+```
 
 Usage
 -----
@@ -89,7 +95,7 @@ Mention how people can offer contributions, and point them to your guidelines fo
 License
 -------
 
-GPL 3 Sharealike
+GNU General Public License v3.0
 
 Authors and history
 ---------------------------
