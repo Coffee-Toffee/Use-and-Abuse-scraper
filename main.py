@@ -31,7 +31,7 @@ catagories = [
 
 subcatagories = ("abcdefghijkl", "mnopqrstuvwxyz")
 #subcatagories = ["abcdefg", "hijklm", "nopqrs", "tuvwxyz"]
-# (So if you want to have 3 subcatagories, you'd choose this)
+# (So if you want to have more than 2 subcatagories, you'd choose this)
 #subcatagories = ["abcd", "efgh", "ijkl", "mnos", "pqrt", "uvwxyz"]
 
 sys.setrecursionlimit(100000)
