@@ -69,7 +69,7 @@ None known at the moment
 Getting help
 ------------
 
-Email me at jackbh@vt.edu, or jbharrison@wm.edu
+Email me at pi.tardigrade@gmail.com, or jbharrison@wm.edu
 
 License
 -------
